@@ -1,22 +1,15 @@
-Welcome to Lumache's documentation!
+Hi88 - hi88.glass - lựa chọn hàng đầu cho những người yêu thích cá cược trực tuyến
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Hi88 <https://hi88.glass/>`_ là một trong những lựa chọn hàng đầu cho những người yêu thích cá cược trực tuyến. Với các thể loại như game 3D, bắn cá, nổ hũ, thể thao, đá gà,... 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Được biết đến như ""thiên đường cá cược"", Hi88 cung cấp các sản phẩm cá cược hàng đầu như thể thao, Casino live phiên bản quốc tế và hơn 1000 trò chơi bắn cá nổ hũ. 
 
-.. note::
+Để truy cập trang chủ Hi88 chính thức, bạn có thể tìm kiếm từ khóa ""Hi88"" trên Google. Hi88.soccer là kênh đăng ký và hỗ trợ chính thức, nơi người chơi có thể đăng ký tài khoản để nhận 58k miễn phí độc quyền.
 
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+Thông tin liên hệ: 
+Địa chỉ: 182/11 Đ. Số 7, Phường 7, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam. 
+Phone: 0332136575. 
+Email: info@hi88.gives. 
+Website: `https://hi88.glass/ <https://hi88.glass/>`_
+#hi88 #nhacaihi88 #trangchuhi88 #dangkyhi88 #linkhi88
